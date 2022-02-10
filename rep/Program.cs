@@ -6,7 +6,7 @@ namespace rep
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Всем салам пацанам!");
+            Console.WriteLine("Всем привет!");
         }
     }
 }
